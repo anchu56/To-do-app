@@ -18,6 +18,10 @@ body {
   text-align: center;
 }
 
+.app .subHeading h2 {
+  text-align: center;
+}
+
 .app h1,
 h2 {
   color: white;
